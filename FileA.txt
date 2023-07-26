@@ -1,2 +1,4 @@
 Hi this is the first line of code of FileA
 This is the first edit
+removed the second and
+added a third
